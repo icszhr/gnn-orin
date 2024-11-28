@@ -1,0 +1,574 @@
+Average execution time: 6.2071 seconds
+
+--- Outputs from each script ---
+
+Output of infer.py:
+Sampling time (Round 1): 0.0010 seconds
+Gathering time (Round 1): 0.0027 seconds
+Inference time (Round 1): 0.0386 seconds
+Total time for Round 1: 0.0860 seconds
+
+Sampling time (Round 2): 0.0003 seconds
+Gathering time (Round 2): 0.0030 seconds
+Inference time (Round 2): 0.0428 seconds
+Total time for Round 2: 0.0863 seconds
+
+Sampling time (Round 3): 0.0003 seconds
+Gathering time (Round 3): 0.0020 seconds
+Inference time (Round 3): 0.0438 seconds
+Total time for Round 3: 0.0834 seconds
+
+Sampling time (Round 4): 0.0003 seconds
+Gathering time (Round 4): 0.0018 seconds
+Inference time (Round 4): 0.0343 seconds
+Total time for Round 4: 0.0735 seconds
+
+Sampling time (Round 5): 0.0003 seconds
+Gathering time (Round 5): 0.0032 seconds
+Inference time (Round 5): 0.0423 seconds
+Total time for Round 5: 0.0835 seconds
+
+Sampling time (Round 6): 0.0003 seconds
+Gathering time (Round 6): 0.0026 seconds
+Inference time (Round 6): 0.0350 seconds
+Total time for Round 6: 0.0766 seconds
+
+Sampling time (Round 7): 0.0003 seconds
+Gathering time (Round 7): 0.0013 seconds
+Inference time (Round 7): 0.0282 seconds
+Total time for Round 7: 0.0606 seconds
+
+Sampling time (Round 8): 0.0003 seconds
+Gathering time (Round 8): 0.0014 seconds
+Inference time (Round 8): 0.0275 seconds
+Total time for Round 8: 0.0605 seconds
+
+Sampling time (Round 9): 0.0003 seconds
+Gathering time (Round 9): 0.0014 seconds
+Inference time (Round 9): 0.0386 seconds
+Total time for Round 9: 0.0747 seconds
+
+Sampling time (Round 10): 0.0003 seconds
+Gathering time (Round 10): 0.0021 seconds
+Inference time (Round 10): 0.0411 seconds
+Total time for Round 10: 0.0805 seconds
+
+Sampling time (Round 11): 0.0003 seconds
+Gathering time (Round 11): 0.0020 seconds
+Inference time (Round 11): 0.0384 seconds
+Total time for Round 11: 0.0783 seconds
+
+Sampling time (Round 12): 0.0003 seconds
+Gathering time (Round 12): 0.0013 seconds
+Inference time (Round 12): 0.0289 seconds
+Total time for Round 12: 0.0652 seconds
+
+Sampling time (Round 13): 0.0003 seconds
+Gathering time (Round 13): 0.0015 seconds
+Inference time (Round 13): 0.0278 seconds
+Total time for Round 13: 0.0643 seconds
+
+Sampling time (Round 14): 0.0003 seconds
+Gathering time (Round 14): 0.0019 seconds
+Inference time (Round 14): 0.0324 seconds
+Total time for Round 14: 0.0676 seconds
+
+Sampling time (Round 15): 0.0003 seconds
+Gathering time (Round 15): 0.0011 seconds
+Inference time (Round 15): 0.0243 seconds
+Total time for Round 15: 0.0593 seconds
+
+Sampling time (Round 16): 0.0003 seconds
+Gathering time (Round 16): 0.0022 seconds
+Inference time (Round 16): 0.0412 seconds
+Total time for Round 16: 0.0816 seconds
+
+Sampling time (Round 17): 0.0003 seconds
+Gathering time (Round 17): 0.0024 seconds
+Inference time (Round 17): 0.0354 seconds
+Total time for Round 17: 0.0742 seconds
+
+Sampling time (Round 18): 0.0003 seconds
+Gathering time (Round 18): 0.0025 seconds
+Inference time (Round 18): 0.0409 seconds
+Total time for Round 18: 0.0791 seconds
+
+Sampling time (Round 19): 0.0003 seconds
+Gathering time (Round 19): 0.0024 seconds
+Inference time (Round 19): 0.0337 seconds
+Total time for Round 19: 0.0742 seconds
+
+Sampling time (Round 20): 0.0003 seconds
+Gathering time (Round 20): 0.0023 seconds
+Inference time (Round 20): 0.0409 seconds
+Total time for Round 20: 0.0834 seconds
+
+Sampling time (Round 21): 0.0003 seconds
+Gathering time (Round 21): 0.0016 seconds
+Inference time (Round 21): 0.0321 seconds
+Total time for Round 21: 0.0690 seconds
+
+Sampling time (Round 22): 0.0003 seconds
+Gathering time (Round 22): 0.0108 seconds
+Inference time (Round 22): 0.0257 seconds
+Total time for Round 22: 0.0694 seconds
+
+Sampling time (Round 23): 0.0003 seconds
+Gathering time (Round 23): 0.0018 seconds
+Inference time (Round 23): 0.0381 seconds
+Total time for Round 23: 0.0765 seconds
+
+Sampling time (Round 24): 0.0003 seconds
+Gathering time (Round 24): 0.0021 seconds
+Inference time (Round 24): 0.0521 seconds
+Total time for Round 24: 0.0920 seconds
+
+Sampling time (Round 25): 0.0003 seconds
+Gathering time (Round 25): 0.0021 seconds
+Inference time (Round 25): 0.0474 seconds
+Total time for Round 25: 0.0947 seconds
+
+Sampling time (Round 26): 0.0003 seconds
+Gathering time (Round 26): 0.0013 seconds
+Inference time (Round 26): 0.0323 seconds
+Total time for Round 26: 0.0671 seconds
+
+Sampling time (Round 27): 0.0003 seconds
+Gathering time (Round 27): 0.0026 seconds
+Inference time (Round 27): 0.0342 seconds
+Total time for Round 27: 0.0767 seconds
+
+Sampling time (Round 28): 0.0003 seconds
+Gathering time (Round 28): 0.0023 seconds
+Inference time (Round 28): 0.0363 seconds
+Total time for Round 28: 0.0774 seconds
+
+Sampling time (Round 29): 0.0003 seconds
+Gathering time (Round 29): 0.0035 seconds
+Inference time (Round 29): 0.0436 seconds
+Total time for Round 29: 0.0841 seconds
+
+Sampling time (Round 30): 0.0003 seconds
+Gathering time (Round 30): 0.0021 seconds
+Inference time (Round 30): 0.0433 seconds
+Total time for Round 30: 0.0974 seconds
+
+Sampling time (Round 31): 0.0003 seconds
+Gathering time (Round 31): 0.0029 seconds
+Inference time (Round 31): 0.0555 seconds
+Total time for Round 31: 0.1129 seconds
+
+Sampling time (Round 32): 0.0003 seconds
+Gathering time (Round 32): 0.0021 seconds
+Inference time (Round 32): 0.0372 seconds
+Total time for Round 32: 0.0886 seconds
+
+Sampling time (Round 33): 0.0003 seconds
+Gathering time (Round 33): 0.0023 seconds
+Inference time (Round 33): 0.0413 seconds
+Total time for Round 33: 0.0793 seconds
+
+Sampling time (Round 34): 0.0003 seconds
+Gathering time (Round 34): 0.0021 seconds
+Inference time (Round 34): 0.0352 seconds
+Total time for Round 34: 0.0738 seconds
+
+Sampling time (Round 35): 0.0003 seconds
+Gathering time (Round 35): 0.0035 seconds
+Inference time (Round 35): 0.0515 seconds
+Total time for Round 35: 0.0984 seconds
+
+Sampling time (Round 36): 0.0003 seconds
+Gathering time (Round 36): 0.0028 seconds
+Inference time (Round 36): 0.0468 seconds
+Total time for Round 36: 0.1052 seconds
+
+Sampling time (Round 37): 0.0003 seconds
+Gathering time (Round 37): 0.0029 seconds
+Inference time (Round 37): 0.0483 seconds
+Total time for Round 37: 0.0935 seconds
+
+Sampling time (Round 38): 0.0003 seconds
+Gathering time (Round 38): 0.0023 seconds
+Inference time (Round 38): 0.0476 seconds
+Total time for Round 38: 0.0969 seconds
+
+Sampling time (Round 39): 0.0003 seconds
+Gathering time (Round 39): 0.0025 seconds
+Inference time (Round 39): 0.0484 seconds
+Total time for Round 39: 0.1132 seconds
+
+Sampling time (Round 40): 0.0003 seconds
+Gathering time (Round 40): 0.0021 seconds
+Inference time (Round 40): 0.0541 seconds
+Total time for Round 40: 0.1070 seconds
+
+Sampling time (Round 41): 0.0003 seconds
+Gathering time (Round 41): 0.0022 seconds
+Inference time (Round 41): 0.0415 seconds
+Total time for Round 41: 0.0835 seconds
+
+Sampling time (Round 42): 0.0003 seconds
+Gathering time (Round 42): 0.0021 seconds
+Inference time (Round 42): 0.0337 seconds
+Total time for Round 42: 0.0729 seconds
+
+Sampling time (Round 43): 0.0003 seconds
+Gathering time (Round 43): 0.0021 seconds
+Inference time (Round 43): 0.0340 seconds
+Total time for Round 43: 0.0722 seconds
+
+Sampling time (Round 44): 0.0003 seconds
+Gathering time (Round 44): 0.0015 seconds
+Inference time (Round 44): 0.0333 seconds
+Total time for Round 44: 0.0699 seconds
+
+Sampling time (Round 45): 0.0003 seconds
+Gathering time (Round 45): 0.0020 seconds
+Inference time (Round 45): 0.0332 seconds
+Total time for Round 45: 0.0689 seconds
+
+Sampling time (Round 46): 0.0003 seconds
+Gathering time (Round 46): 0.0041 seconds
+Inference time (Round 46): 0.0495 seconds
+Total time for Round 46: 0.0930 seconds
+
+Sampling time (Round 47): 0.0003 seconds
+Gathering time (Round 47): 0.0020 seconds
+Inference time (Round 47): 0.0487 seconds
+Total time for Round 47: 0.1016 seconds
+
+Sampling time (Round 48): 0.0003 seconds
+Gathering time (Round 48): 0.0025 seconds
+Inference time (Round 48): 0.0373 seconds
+Total time for Round 48: 0.0876 seconds
+
+Sampling time (Round 49): 0.0003 seconds
+Gathering time (Round 49): 0.0021 seconds
+Inference time (Round 49): 0.0345 seconds
+Total time for Round 49: 0.0741 seconds
+
+Sampling time (Round 50): 0.0003 seconds
+Gathering time (Round 50): 0.0026 seconds
+Inference time (Round 50): 0.0454 seconds
+Total time for Round 50: 0.0919 seconds
+
+
+--------------------------------------------------
+
+Output of pin_infer.py:
+Graph loading time: 1.5397 seconds
+Node feature loading time: 0.0307 seconds
+Sampling time (round 0): 0.0007 seconds
+Subgraph sampling time (round 0): 0.0012 seconds
+Aggregation & Inference time (round 0): 1.2854 seconds
+Total time for round 0: 1.2854 seconds
+Sampling time (round 1): 0.0010 seconds
+Subgraph sampling time (round 1): 0.0003 seconds
+Aggregation & Inference time (round 1): 0.0083 seconds
+Total time for round 1: 0.0083 seconds
+Sampling time (round 2): 0.0010 seconds
+Subgraph sampling time (round 2): 0.0003 seconds
+Aggregation & Inference time (round 2): 0.0069 seconds
+Total time for round 2: 0.0069 seconds
+Sampling time (round 3): 0.0005 seconds
+Subgraph sampling time (round 3): 0.0004 seconds
+Aggregation & Inference time (round 3): 0.0069 seconds
+Total time for round 3: 0.0069 seconds
+Sampling time (round 4): 0.0005 seconds
+Subgraph sampling time (round 4): 0.0003 seconds
+Aggregation & Inference time (round 4): 0.0068 seconds
+Total time for round 4: 0.0068 seconds
+Sampling time (round 5): 0.0005 seconds
+Subgraph sampling time (round 5): 0.0002 seconds
+Aggregation & Inference time (round 5): 0.0069 seconds
+Total time for round 5: 0.0069 seconds
+Sampling time (round 6): 0.0005 seconds
+Subgraph sampling time (round 6): 0.0002 seconds
+Aggregation & Inference time (round 6): 0.0069 seconds
+Total time for round 6: 0.0069 seconds
+Sampling time (round 7): 0.0002 seconds
+Subgraph sampling time (round 7): 0.0002 seconds
+Aggregation & Inference time (round 7): 0.0069 seconds
+Total time for round 7: 0.0069 seconds
+Sampling time (round 8): 0.0005 seconds
+Subgraph sampling time (round 8): 0.0002 seconds
+Aggregation & Inference time (round 8): 0.0068 seconds
+Total time for round 8: 0.0068 seconds
+Sampling time (round 9): 0.0005 seconds
+Subgraph sampling time (round 9): 0.0002 seconds
+Aggregation & Inference time (round 9): 0.0069 seconds
+Total time for round 9: 0.0069 seconds
+Sampling time (round 10): 0.0005 seconds
+Subgraph sampling time (round 10): 0.0002 seconds
+Aggregation & Inference time (round 10): 0.0069 seconds
+Total time for round 10: 0.0069 seconds
+Sampling time (round 11): 0.0005 seconds
+Subgraph sampling time (round 11): 0.0002 seconds
+Aggregation & Inference time (round 11): 0.0069 seconds
+Total time for round 11: 0.0069 seconds
+Sampling time (round 12): 0.0005 seconds
+Subgraph sampling time (round 12): 0.0002 seconds
+Aggregation & Inference time (round 12): 0.0069 seconds
+Total time for round 12: 0.0069 seconds
+Sampling time (round 13): 0.0006 seconds
+Subgraph sampling time (round 13): 0.0002 seconds
+Aggregation & Inference time (round 13): 0.0069 seconds
+Total time for round 13: 0.0069 seconds
+Sampling time (round 14): 0.0007 seconds
+Subgraph sampling time (round 14): 0.0003 seconds
+Aggregation & Inference time (round 14): 0.0069 seconds
+Total time for round 14: 0.0069 seconds
+Sampling time (round 15): 0.0005 seconds
+Subgraph sampling time (round 15): 0.0003 seconds
+Aggregation & Inference time (round 15): 0.0069 seconds
+Total time for round 15: 0.0069 seconds
+Sampling time (round 16): 0.0005 seconds
+Subgraph sampling time (round 16): 0.0002 seconds
+Aggregation & Inference time (round 16): 0.0069 seconds
+Total time for round 16: 0.0069 seconds
+Sampling time (round 17): 0.0005 seconds
+Subgraph sampling time (round 17): 0.0002 seconds
+Aggregation & Inference time (round 17): 0.0069 seconds
+Total time for round 17: 0.0069 seconds
+Sampling time (round 18): 0.0005 seconds
+Subgraph sampling time (round 18): 0.0002 seconds
+Aggregation & Inference time (round 18): 0.0069 seconds
+Total time for round 18: 0.0069 seconds
+Sampling time (round 19): 0.0005 seconds
+Subgraph sampling time (round 19): 0.0002 seconds
+Aggregation & Inference time (round 19): 0.0069 seconds
+Total time for round 19: 0.0069 seconds
+Sampling time (round 20): 0.0005 seconds
+Subgraph sampling time (round 20): 0.0002 seconds
+Aggregation & Inference time (round 20): 0.0076 seconds
+Total time for round 20: 0.0076 seconds
+Sampling time (round 21): 0.0008 seconds
+Subgraph sampling time (round 21): 0.0003 seconds
+Aggregation & Inference time (round 21): 0.0068 seconds
+Total time for round 21: 0.0068 seconds
+Sampling time (round 22): 0.0005 seconds
+Subgraph sampling time (round 22): 0.0002 seconds
+Aggregation & Inference time (round 22): 0.0070 seconds
+Total time for round 22: 0.0070 seconds
+Sampling time (round 23): 0.0005 seconds
+Subgraph sampling time (round 23): 0.0002 seconds
+Aggregation & Inference time (round 23): 0.0069 seconds
+Total time for round 23: 0.0069 seconds
+Sampling time (round 24): 0.0005 seconds
+Subgraph sampling time (round 24): 0.0002 seconds
+Aggregation & Inference time (round 24): 0.0069 seconds
+Total time for round 24: 0.0069 seconds
+Sampling time (round 25): 0.0009 seconds
+Subgraph sampling time (round 25): 0.0002 seconds
+Aggregation & Inference time (round 25): 0.0069 seconds
+Total time for round 25: 0.0069 seconds
+Sampling time (round 26): 0.0005 seconds
+Subgraph sampling time (round 26): 0.0002 seconds
+Aggregation & Inference time (round 26): 0.0069 seconds
+Total time for round 26: 0.0069 seconds
+Sampling time (round 27): 0.0005 seconds
+Subgraph sampling time (round 27): 0.0002 seconds
+Aggregation & Inference time (round 27): 0.0069 seconds
+Total time for round 27: 0.0069 seconds
+Sampling time (round 28): 0.0005 seconds
+Subgraph sampling time (round 28): 0.0002 seconds
+Aggregation & Inference time (round 28): 0.0069 seconds
+Total time for round 28: 0.0069 seconds
+Sampling time (round 29): 0.0005 seconds
+Subgraph sampling time (round 29): 0.0002 seconds
+Aggregation & Inference time (round 29): 0.0069 seconds
+Total time for round 29: 0.0069 seconds
+Sampling time (round 30): 0.0005 seconds
+Subgraph sampling time (round 30): 0.0002 seconds
+Aggregation & Inference time (round 30): 0.0069 seconds
+Total time for round 30: 0.0069 seconds
+Sampling time (round 31): 0.0002 seconds
+Subgraph sampling time (round 31): 0.0002 seconds
+Aggregation & Inference time (round 31): 0.0069 seconds
+Total time for round 31: 0.0069 seconds
+Sampling time (round 32): 0.0002 seconds
+Subgraph sampling time (round 32): 0.0003 seconds
+Aggregation & Inference time (round 32): 0.0069 seconds
+Total time for round 32: 0.0069 seconds
+Sampling time (round 33): 0.0005 seconds
+Subgraph sampling time (round 33): 0.0002 seconds
+Aggregation & Inference time (round 33): 0.0069 seconds
+Total time for round 33: 0.0069 seconds
+Sampling time (round 34): 0.0005 seconds
+Subgraph sampling time (round 34): 0.0002 seconds
+Aggregation & Inference time (round 34): 0.0074 seconds
+Total time for round 34: 0.0074 seconds
+Sampling time (round 35): 0.0005 seconds
+Subgraph sampling time (round 35): 0.0002 seconds
+Aggregation & Inference time (round 35): 0.0069 seconds
+Total time for round 35: 0.0069 seconds
+Sampling time (round 36): 0.0005 seconds
+Subgraph sampling time (round 36): 0.0002 seconds
+Aggregation & Inference time (round 36): 0.0069 seconds
+Total time for round 36: 0.0069 seconds
+Sampling time (round 37): 0.0005 seconds
+Subgraph sampling time (round 37): 0.0002 seconds
+Aggregation & Inference time (round 37): 0.0067 seconds
+Total time for round 37: 0.0067 seconds
+Sampling time (round 38): 0.0005 seconds
+Subgraph sampling time (round 38): 0.0002 seconds
+Aggregation & Inference time (round 38): 0.0068 seconds
+Total time for round 38: 0.0068 seconds
+Sampling time (round 39): 0.0005 seconds
+Subgraph sampling time (round 39): 0.0002 seconds
+Aggregation & Inference time (round 39): 0.0073 seconds
+Total time for round 39: 0.0073 seconds
+Sampling time (round 40): 0.0005 seconds
+Subgraph sampling time (round 40): 0.0002 seconds
+Aggregation & Inference time (round 40): 0.0070 seconds
+Total time for round 40: 0.0070 seconds
+Sampling time (round 41): 0.0005 seconds
+Subgraph sampling time (round 41): 0.0002 seconds
+Aggregation & Inference time (round 41): 0.0069 seconds
+Total time for round 41: 0.0069 seconds
+Sampling time (round 42): 0.0005 seconds
+Subgraph sampling time (round 42): 0.0002 seconds
+Aggregation & Inference time (round 42): 0.0066 seconds
+Total time for round 42: 0.0066 seconds
+Sampling time (round 43): 0.0004 seconds
+Subgraph sampling time (round 43): 0.0002 seconds
+Aggregation & Inference time (round 43): 0.0066 seconds
+Total time for round 43: 0.0066 seconds
+Sampling time (round 44): 0.0008 seconds
+Subgraph sampling time (round 44): 0.0002 seconds
+Aggregation & Inference time (round 44): 0.0066 seconds
+Total time for round 44: 0.0066 seconds
+Sampling time (round 45): 0.0008 seconds
+Subgraph sampling time (round 45): 0.0002 seconds
+Aggregation & Inference time (round 45): 0.0066 seconds
+Total time for round 45: 0.0066 seconds
+Sampling time (round 46): 0.0008 seconds
+Subgraph sampling time (round 46): 0.0002 seconds
+Aggregation & Inference time (round 46): 0.0069 seconds
+Total time for round 46: 0.0069 seconds
+Sampling time (round 47): 0.0005 seconds
+Subgraph sampling time (round 47): 0.0002 seconds
+Aggregation & Inference time (round 47): 0.0066 seconds
+Total time for round 47: 0.0066 seconds
+Sampling time (round 48): 0.0009 seconds
+Subgraph sampling time (round 48): 0.0002 seconds
+Aggregation & Inference time (round 48): 0.0067 seconds
+Total time for round 48: 0.0067 seconds
+Sampling time (round 49): 0.0008 seconds
+Subgraph sampling time (round 49): 0.0002 seconds
+Aggregation & Inference time (round 49): 0.0065 seconds
+Total time for round 49: 0.0065 seconds
+
+--------------------------------------------------
+
+Output of um_infer.py:
+CUDA memory allocated before loading: 3254784 bytes
+CUDA memory allocated after loading graph: 3254784 bytes
+Graph loading time (CUDA): 1.5575 seconds
+CUDA memory allocated before loading features: 37650944 bytes
+CUDA memory allocated after loading features: 37650944 bytes
+Node feature loading time (CUDA): 0.0314 seconds
+Block sampling and gathering time for round 1: 1.2893 seconds
+Round 1 total inference time: 1.3066 seconds
+Block sampling and gathering time for round 2: 0.0084 seconds
+Round 2 total inference time: 0.0207 seconds
+Block sampling and gathering time for round 3: 0.0070 seconds
+Round 3 total inference time: 0.0184 seconds
+Block sampling and gathering time for round 4: 0.0074 seconds
+Round 4 total inference time: 0.0190 seconds
+Block sampling and gathering time for round 5: 0.0070 seconds
+Round 5 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 6: 0.0070 seconds
+Round 6 total inference time: 0.0179 seconds
+Block sampling and gathering time for round 7: 0.0070 seconds
+Round 7 total inference time: 0.0179 seconds
+Block sampling and gathering time for round 8: 0.0079 seconds
+Round 8 total inference time: 0.0192 seconds
+Block sampling and gathering time for round 9: 0.0075 seconds
+Round 9 total inference time: 0.0185 seconds
+Block sampling and gathering time for round 10: 0.0070 seconds
+Round 10 total inference time: 0.0179 seconds
+Block sampling and gathering time for round 11: 0.0069 seconds
+Round 11 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 12: 0.0070 seconds
+Round 12 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 13: 0.0070 seconds
+Round 13 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 14: 0.0074 seconds
+Round 14 total inference time: 0.0193 seconds
+Block sampling and gathering time for round 15: 0.0070 seconds
+Round 15 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 16: 0.0070 seconds
+Round 16 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 17: 0.0069 seconds
+Round 17 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 18: 0.0069 seconds
+Round 18 total inference time: 0.0176 seconds
+Block sampling and gathering time for round 19: 0.0073 seconds
+Round 19 total inference time: 0.0199 seconds
+Block sampling and gathering time for round 20: 0.0070 seconds
+Round 20 total inference time: 0.0179 seconds
+Block sampling and gathering time for round 21: 0.0070 seconds
+Round 21 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 22: 0.0070 seconds
+Round 22 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 23: 0.0070 seconds
+Round 23 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 24: 0.0074 seconds
+Round 24 total inference time: 0.0193 seconds
+Block sampling and gathering time for round 25: 0.0071 seconds
+Round 25 total inference time: 0.0187 seconds
+Block sampling and gathering time for round 26: 0.0070 seconds
+Round 26 total inference time: 0.0190 seconds
+Block sampling and gathering time for round 27: 0.0069 seconds
+Round 27 total inference time: 0.0176 seconds
+Block sampling and gathering time for round 28: 0.0081 seconds
+Round 28 total inference time: 0.0189 seconds
+Block sampling and gathering time for round 29: 0.0077 seconds
+Round 29 total inference time: 0.0188 seconds
+Block sampling and gathering time for round 30: 0.0070 seconds
+Round 30 total inference time: 0.0180 seconds
+Block sampling and gathering time for round 31: 0.0070 seconds
+Round 31 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 32: 0.0070 seconds
+Round 32 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 33: 0.0070 seconds
+Round 33 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 34: 0.0075 seconds
+Round 34 total inference time: 0.0199 seconds
+Block sampling and gathering time for round 35: 0.0070 seconds
+Round 35 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 36: 0.0070 seconds
+Round 36 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 37: 0.0070 seconds
+Round 37 total inference time: 0.0178 seconds
+Block sampling and gathering time for round 38: 0.0069 seconds
+Round 38 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 39: 0.0072 seconds
+Round 39 total inference time: 0.0182 seconds
+Block sampling and gathering time for round 40: 0.0073 seconds
+Round 40 total inference time: 0.0193 seconds
+Block sampling and gathering time for round 41: 0.0070 seconds
+Round 41 total inference time: 0.0177 seconds
+Block sampling and gathering time for round 42: 0.0067 seconds
+Round 42 total inference time: 0.0179 seconds
+Block sampling and gathering time for round 43: 0.0066 seconds
+Round 43 total inference time: 0.0170 seconds
+Block sampling and gathering time for round 44: 0.0067 seconds
+Round 44 total inference time: 0.0171 seconds
+Block sampling and gathering time for round 45: 0.0071 seconds
+Round 45 total inference time: 0.0180 seconds
+Block sampling and gathering time for round 46: 0.0067 seconds
+Round 46 total inference time: 0.0172 seconds
+Block sampling and gathering time for round 47: 0.0067 seconds
+Round 47 total inference time: 0.0171 seconds
+Block sampling and gathering time for round 48: 0.0067 seconds
+Round 48 total inference time: 0.0171 seconds
+Block sampling and gathering time for round 49: 0.0066 seconds
+Round 49 total inference time: 0.0170 seconds
+Block sampling and gathering time for round 50: 0.0073 seconds
+Round 50 total inference time: 0.0176 seconds
+Total CUDA memory allocated after inference: 65954304 bytes
+
+--------------------------------------------------

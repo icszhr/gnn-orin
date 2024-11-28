@@ -1,0 +1,1 @@
+Using cudaMallocManaged took 4.77355 seconds.

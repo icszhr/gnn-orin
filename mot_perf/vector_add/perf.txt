@@ -1,0 +1,5 @@
+Pure computation time: 0.197579 seconds.
+Unified memory time: 0.0582587 seconds.
+Pinned memory time: 0.052278 seconds.
+Memcpy transfer time: 0.0887178 seconds.
+Pure computation time: 0.0504104 seconds.

@@ -1,0 +1,2 @@
+cudaMallocManaged to mmap swap time: 9.48976 seconds.
+cudaMalloc to mmap swap time: 8.50761 seconds.
