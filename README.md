@@ -1,1 +1,5 @@
 # gnn-orin
+
+graph_test中包含真实图推理步骤中不同分配方式的性能测试
+ssd_perf中是不同与SSD交换方式的性能
+vector_add中是向量加法的性能测试，包含异构计算场景和纯GPU场景
